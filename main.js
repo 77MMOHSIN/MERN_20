@@ -3,3 +3,10 @@ const main = (a,b)=>{
     return app
 }
 console.log(main(2,4)) 
+const palindrome=()=>{
+    console.log('palindrome why')
+}
+const evenodd=()=>{
+    console.log('main enve,  ')
+
+}
