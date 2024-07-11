@@ -2,7 +2,7 @@ const palindrome=()=>{
     console.log('palindrome why')
 }
 const evenodd=()=>{
-    console.log('main enven  ')
+    console.log('main enven')
 
 }
 const main= ()=>{
